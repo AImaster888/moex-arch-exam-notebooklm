@@ -22,17 +22,6 @@
 
 ---
 
-## 🔗 NotebookLM 知識庫連結
-
-* **線上筆記本**：[高考三級 建築工程 考古題庫 (110-115)](https://notebook.google.com/notebook/cfbc2bb8-818c-4aee-8af7-6002d2fd2e3c?authuser=4)
-* **涵蓋核心專業科目**：
-  - 建築營造與施工
-  - 建築環境控制
-  - 建築結構
-  - 建築構造與施工
-  - 建築法規與實務
-  - 營建法規與都市計畫法制
-
 ---
 
 ## 🛠️ NotebookLM MCP 安裝與設定步驟
