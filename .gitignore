@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & PDF files
+data/
+*.pdf
+*.zip
+
+# Environment & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
